@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+
+# Files created by pycharm
+.idea
+.idea/*
